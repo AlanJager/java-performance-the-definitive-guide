@@ -1,4 +1,4 @@
-# thinking-in-java
+# Java-performance-the-definitive-guide
 
 [![license:mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/MIT)
 
